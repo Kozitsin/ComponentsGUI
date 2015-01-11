@@ -1,0 +1,9 @@
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\ComponentsGUI\ComponentsGUI\bin\Release\ComponentsGUI.exe.config
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\ComponentsGUI\ComponentsGUI\bin\Release\ComponentsGUI.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\ComponentsGUI\ComponentsGUI\bin\Release\ComponentsGUI.pdb
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\ComponentsGUI\ComponentsGUI\obj\Release\ComponentsGUI.Form1.resources
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\ComponentsGUI\ComponentsGUI\obj\Release\ComponentsGUI.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\ComponentsGUI\ComponentsGUI\obj\Release\ComponentsGUI.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\ComponentsGUI\ComponentsGUI\obj\Release\ComponentsGUI.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\ComponentsGUI\ComponentsGUI\obj\Release\ComponentsGUI.pdb
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\ComponentsGUI\ComponentsGUI\obj\Release\ComponentsGUI.csprojResolveAssemblyReference.cache
